@@ -1,0 +1,5 @@
+Credentials cache: API:54F8585B-A3A8-4E69-B7A2-3A46BE3954A5
+        Principal: jmengare@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 27 12:18:07 2020  Oct 27 22:17:57 2020  krbtgt/42ROMA.IT@42ROMA.IT
